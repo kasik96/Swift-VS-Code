@@ -1,0 +1,26 @@
+{
+	"name": "swift",
+	"displayName": "Swift Language",
+	"description": "Swift language support for VS Code",
+	"version": "0.0.1",
+	"publisher": "Kasik96",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [{
+			"id": "swift",
+			"aliases": ["Swift", "swift"],
+			"extensions": [".swift"],
+			"configuration": "./swift.configuration.json"
+		}],
+		"grammars": [{
+			"language": "swift",
+			"scopeName": "source.swift",
+			"path": "./syntaxes/swift.tmLanguage"
+		}]
+	}
+}
