@@ -2,7 +2,7 @@
 	"name": "swift",
 	"displayName": "Swift Language",
 	"description": "Swift language support for VS Code",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "Kasik96",
 	"engines": {
 		"vscode": "^0.10.1"
@@ -35,6 +35,12 @@
 			"language": "swift",
 			"scopeName": "source.swift",
 			"path": "./syntaxes/swift.tmLanguage"
-		}]
+		}],
+		"snippets": [
+			{
+				"language": "swift",
+				"path": "./snippets/snippets.json"
+			}
+		]
 	}
 }

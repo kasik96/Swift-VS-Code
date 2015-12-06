@@ -1,0 +1,152 @@
+{
+	"Array": {
+		"prefix": "Array",
+		"body": "\nArray<${1:Type}>\n",
+		"description": "",
+		"scope": "source.swift"
+	},
+	"Dictionary": {
+		"prefix": "Dictionary",
+		"body": "\nDictionary<${1:KeyType}, ${2:ValueType}>\n",
+		"description": "",
+		"scope": "source.swift"
+	},
+	"cv": {
+		"prefix": "cv",
+		"body": "\nclass var ${1:name}\n",
+		"description": "class var ...",
+		"scope": "source.swift"
+	},
+	"class": {
+		"prefix": "class",
+		"body": "\nclass ${1:name} {\n\t$2\n}\n",
+		"description": "class ...",
+		"scope": "source.swift"
+	},
+	"deinit": {
+		"prefix": "deinit",
+		"body": "\ndeinit {\n\t$1\n}\n",
+		"description": "deinit {...}",
+		"scope": "source.swift"
+	},
+	"didSet": {
+		"prefix": "didSet",
+		"body": "\ndidSet {\n\t$1\n}\n",
+		"description": "didSet {...}",
+		"scope": "source.swift"
+	},
+	"elif": {
+		"prefix": "elif",
+		"body": "\nelse if ${1:condition} {\n\t$2\n}\n",
+		"description": "else if ...",
+		"scope": "source.swift"
+	},
+	"else": {
+		"prefix": "else",
+		"body": "\nelse {\n\t$2\n}\n",
+		"description": "else ...",
+		"scope": "source.swift"
+	},
+	"enum": {
+		"prefix": "enum",
+		"body": "\nenum ${1:name} {\n\t$2\n}\n",
+		"description": "",
+		"scope": "source.swift"
+	},
+	"extension": {
+		"prefix": "extension",
+		"body": "\nextension ${1:name} {\n\t$2\n}\n",
+		"description": "extension ...",
+		"scope": "source.swift"
+	},
+	"func": {
+		"prefix": "func",
+		"body": "\nfunc ${1:name}(${2:arguments}) -> ${3:ReturnType} {\n\t$4\n}\n",
+		"description": "",
+		"scope": "source.swift"
+	},
+	"get": {
+		"prefix": "get",
+		"body": "\nget {\n\t$1\n}\n",
+		"description": "get {...}",
+		"scope": "source.swift"
+	},
+	"ifelse": {
+		"prefix": "ifelse",
+		"body": "\nif ${1:condition} {\n\t$2\n} else {\n\t$3\n}\n",
+		"description": "if ... else ...",
+		"scope": "source.swift"
+	},
+	"if": {
+		"prefix": "if",
+		"body": "\nif ${1:condition} {\n\t$2\n}\n",
+		"description": "if ...",
+		"scope": "source.swift"
+	},
+	"init": {
+		"prefix": "init",
+		"body": "\ninit(${1:parameters}) {\n\t$2\n}\n",
+		"description": "init(...) {...}",
+		"scope": "source.swift"
+	},
+	"operator": {
+		"prefix": "operator",
+		"body": "\noperator ${1:type} ${2:name} {\n\t$3\n}\n",
+		"description": "operator ...",
+		"scope": "source.swift"
+	},
+	"protocol": {
+		"prefix": "protocol",
+		"body": "\nprotocol ${1:name} {\n\t$2\n}\n",
+		"description": "protocol ...",
+		"scope": "source.swift"
+	},
+	"set": {
+		"prefix": "set",
+		"body": "\nset {\n\t$1\n}\n",
+		"description": "set {...}",
+		"scope": "source.swift"
+	},
+	"sv": {
+		"prefix": "sv",
+		"body": "\nstatic var ${1:name}\n",
+		"description": "static var ...",
+		"scope": "source.swift"
+	},
+	"struct": {
+		"prefix": "struct",
+		"body": "\nstruct ${1:name} {\n\t$2\n}\n",
+		"description": "struct ...",
+		"scope": "source.swift"
+	},
+	"subscript": {
+		"prefix": "subscript",
+		"body": "\nsubscript(${1:parameters}) -> ${2:ReturnType} {\n\t$3\n}\n",
+		"description": "subscript ...",
+		"scope": "source.swift"
+	},
+	"swift": {
+		"prefix": "swift",
+		"body": "\n#!/usr/bin/env xcrun swift\n$0\n",
+		"description": "#!/usr/bin/env xcrun swift",
+		"scope": "source.swift"
+	},
+	"switch": {
+		"prefix": "switch",
+		"body": "\nswitch ${1:control expression} {\ncase ${2:pattern}:\n\t$3\n}\n",
+		"description": "switch ...",
+		"scope": "source.swift"
+	},
+	"typealias": {
+		"prefix": "typealias",
+		"body": "\ntypealias ${1:name} = ${2:Type}\n",
+		"description": "typealias ... = ...",
+		"scope": "source.swift"
+	},
+	"willSet": {
+		"prefix": "willSet",
+		"body": "\nwillSet {\n\t$1\n}\n",
+		"description": "willSet {...}",
+		"scope": "source.swift"
+	}
+}
