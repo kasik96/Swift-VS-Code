@@ -1,13 +1,17 @@
 # README
-## This is the README for your extension "swift" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is the README for language extension Swift for VS Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+* This extension integrates the Swift Language into Visual Studio Code.
+* Swift is now OpenSource by Apple, and you can contribute here: https://github.com/apple/swift
+* Now this extension Support Colorization -> Snippets will come very soon.
+* Debugger is now in testing.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Bugs and Ideas
+* If you found bug or you have an idea, let me now on GitHub :)
+* https://github.com/kasik96/Swift-VS-Code
 
-** Enjoy!**
+### Thanks to
+* [Swift Github](https://github.com/apple/swift)
+* [Syntax Highlighting for Swift](https://github.com/P233/Syntax-highlighting-for-Swift)
+
+** Made with ♥ and VSCode. Enjoy!**
