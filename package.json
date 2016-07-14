@@ -34,7 +34,7 @@
 		"grammars": [{
 			"language": "swift",
 			"scopeName": "source.swift",
-			"path": "./syntaxes/swift.tmLanguage"
+			"path": "./syntaxes/Swift.tmLanguage"
 		}],
 		"snippets": [
 			{
