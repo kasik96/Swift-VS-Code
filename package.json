@@ -28,7 +28,7 @@
 		"languages": [{
 			"id": "swift",
 			"aliases": ["Swift", "swift"],
-			"extensions": [".swift"],
+			"extensions": [".swift", ".swiftinterface"],
 			"configuration": "./swift.configuration.json"
 		}],
 		"grammars": [{

@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>swift</string>
+		<string>swiftinterface</string>
 	</array>
 	<key>name</key>
 	<string>Swift</string>
