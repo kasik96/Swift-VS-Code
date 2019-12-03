@@ -1,5 +1,4 @@
-# README
-## This is the README for language extension Swift for VS Code
+## VS Code Language extension Swift for VS Code
 
 * This extension integrates the Swift Language into Visual Studio Code.
 * Support Colorization, Snippets and Grammar.
@@ -15,4 +14,4 @@
 * [Syntax Highlighting for Swift](https://github.com/P233/Syntax-highlighting-for-Swift)
 * [Swift-Sublime-Package](https://github.com/quiqueg/Swift-Sublime-Package)
 
-** Made with ♥ and VSCode. Enjoy! **
+**Made with ♥ and VSCode. Enjoy!**
