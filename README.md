@@ -11,7 +11,7 @@
 
 ### Thanks to
 * [Swift Github](https://github.com/apple/swift)
-* [Syntax Highlighting for Swift](https://github.com/P233/Syntax-highlighting-for-Swift)
+* [Syntax Highlighting for Swift](https://github.com/textmate/swift.tmbundle)
 * [Swift-Sublime-Package](https://github.com/quiqueg/Swift-Sublime-Package)
 
 **Made with ♥ and VSCode. Enjoy!**
