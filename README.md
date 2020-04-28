@@ -1,7 +1,7 @@
 ## VS Code Language extension Swift for VS Code
 
 * This extension integrates the Swift Language into Visual Studio Code.
-* Supports Colorization, Snippets and Grammar.
+* Supports Colorization, Snippets, and Grammar.
 * Swift is now OpenSource by Apple, and you can contribute here: https://github.com/apple/swift.
 * Debugger is now in testing.
 
