@@ -18,11 +18,11 @@
 * Debugger is now in testing.
 
 ### Bugs and Ideas
-* If you find a bug or you have an idea, let me know on GitHub :)
-* https://github.com/kasik96/Swift-VS-Code
+If you find a bug or you have an idea, let me know on GitHub :)
+https://github.com/kasik96/Swift-VS-Code
 
 ### Contributing
-* All contributions are welcomed!
+All contributions are welcomed!
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
