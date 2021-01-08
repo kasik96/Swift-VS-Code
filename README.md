@@ -24,6 +24,9 @@
 ### Contributing
 * All contributions are welcomed!
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ### Thanks to
 * [Swift Github](https://github.com/apple/swift)
 * [Syntax Highlighting for Swift](https://github.com/textmate/swift.tmbundle)
