@@ -21,7 +21,7 @@
 * If you find a bug or you have an idea, let me know on GitHub :)
 * https://github.com/kasik96/Swift-VS-Code
 
-## Contributing
+### Contributing
 * All contributions are welcomed!
 
 ### Thanks to
