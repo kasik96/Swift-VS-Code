@@ -8,7 +8,6 @@
     <a href="https://twitter.com/KasikCZ">
         <img src="https://img.shields.io/badge/twitter-@KasikCZ-blue.svg" alt="Twitter: @KasikCZ" />
     </a>
-  <a href="https://www.buymeacoffee.com/kasik96" target="_blank"><img height="21" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 </p>
 
 
